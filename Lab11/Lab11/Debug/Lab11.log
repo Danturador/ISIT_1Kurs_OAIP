@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\User\Desktop\Универ\Лабы\ЛабаАОИП\Lab11\Lab11\Source.cpp(5,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\User\Desktop\Универ\Лабы\ЛабаАОИП\Lab11\Lab11\Source.cpp(58,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Lab11.vcxproj -> C:\Users\User\Desktop\Универ\Лабы\ЛабаАОИП\Lab11\Debug\Lab11.exe
