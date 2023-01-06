@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\User\Desktop\Универ\Лабы\Лаба АОИП\L4_Luchenok\L4_Luchenok\Source.cpp(10,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\User\Desktop\Универ\Лабы\Лаба АОИП\L4_Luchenok\L4_Luchenok\Source.cpp(28,10): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+C:\Users\User\Desktop\Универ\Лабы\Лаба АОИП\L4_Luchenok\L4_Luchenok\Source.cpp(28,10): message : заполнители и их параметры ожидают переменное число аргументов в количестве 3, но было предоставлено 2
+C:\Users\User\Desktop\Универ\Лабы\Лаба АОИП\L4_Luchenok\L4_Luchenok\Source.cpp(28,10): message : отсутствующий вариативный аргумент "3" требуется для строки форматирования "%c"
+C:\Users\User\Desktop\Универ\Лабы\Лаба АОИП\L4_Luchenok\L4_Luchenok\Source.cpp(28,10): message : этот аргумент используется в качестве размера буфера
+  L4_Luchenok.vcxproj -> C:\Users\User\Desktop\Универ\Лабы\Лаба АОИП\L4_Luchenok\Debug\L4_Luchenok.exe
