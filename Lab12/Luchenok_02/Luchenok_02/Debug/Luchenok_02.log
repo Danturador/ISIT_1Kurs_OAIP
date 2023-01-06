@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\User\Desktop\Универ\Лабы\Лаба АОИП\Luchenok_02\Luchenok_02\main.cpp(3,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\User\Desktop\Универ\Лабы\Лаба АОИП\Luchenok_02\Luchenok_02\main.cpp(57,47): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\User\Desktop\Универ\Лабы\Лаба АОИП\Luchenok_02\Luchenok_02\main.cpp(58,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Luchenok_02.vcxproj -> C:\Users\User\Desktop\Универ\Лабы\Лаба АОИП\Luchenok_02\Debug\Luchenok_02.exe
